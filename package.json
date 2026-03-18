@@ -25,6 +25,8 @@
     "globals": "^16.5.0",
     "vite": "npm:rolldown-vite@7.2.5"
   },
+  "homepage": "https://shankarim97-star.github.io/SH_Home_Baking--Bakery-Mern-Project"
+},
   "overrides": {
     "vite": "npm:rolldown-vite@7.2.5"
   }
